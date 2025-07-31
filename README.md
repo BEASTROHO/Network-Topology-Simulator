@@ -108,6 +108,5 @@ Network-Topology-Simulator/
 
 **Rohit M**  
 Passionate about networking, embedded systems, and simulation tools.  
-Explore more at [Haveloc](https://app.haveloc.com/jobs/6005-79cc2fae-ad56-490d-a28d-4e187b35a760/b40a0a9e-47b8-4778-949a-08fb6254ca37)
 
 ```
