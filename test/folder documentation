@@ -1,0 +1,46 @@
+
+---
+
+## 📁 Contents
+
+| File Name | Purpose |
+|-----------|---------|
+| `test_cases.md` | Manual test scenarios for UI, simulation, and edge cases |
+| `integration_tests.md` *(optional)* | End-to-end tests for component interactions |
+| `unit_tests.md` *(optional)* | Function-level tests for utilities like metric calculation |
+| `README.md` | Overview of testing strategy and instructions |
+
+---
+
+## 🧠 Testing Strategy
+
+### 🔍 Manual Testing
+- Validate drag-and-drop behavior
+- Check connection logic and prevention
+- Simulate performance metrics
+- Test save/load functionality
+
+### ⚙️ Automated Testing *(future enhancement)*
+- Use Jest or Vitest for unit tests
+- Simulate user interactions with React Testing Library
+- Validate state updates and metric calculations
+
+---
+
+## ✅ Sample Manual Test Case
+
+```markdown
+### Test: Connect Two Devices
+
+**Steps:**
+1. Drag a router and a switch to canvas
+2. Right-click router → Connect → Select switch
+
+**Expected Result:**
+- Arrow appears from router to switch
+- Connection is stored in state
+- Metrics are displayed on hover
+
+🛠 Setup Instructions
+# Run app locally
+npm install
