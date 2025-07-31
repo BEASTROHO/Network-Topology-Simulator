@@ -71,8 +71,7 @@ Network-Topology-Simulator/
 ├── test/
 ├── docs/
 ├── README.md
-├── LICENSE
-└── package.json
+└── LICENSE
 ```
 
 ---
