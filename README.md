@@ -67,10 +67,7 @@ npm start
 Network-Topology-Simulator/
 ├── public/
 ├── src/
-│   ├── App.jsx
-│   ├── assets/
-│   ├── styles/
-│   └── utils/
+│   └── App.jsx
 ├── test/
 ├── docs/
 ├── README.md
