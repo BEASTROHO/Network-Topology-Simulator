@@ -70,8 +70,7 @@ Network-Topology-Simulator/
 │   └── App.jsx
 ├── test/
 ├── docs/
-├── README.md
-└── LICENSE
+└── README.md
 ```
 
 ---
