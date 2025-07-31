@@ -1,7 +1,7 @@
 
 ---
 
-```markdown
+
 # 🖧 Network Topology Simulator
 
 An interactive React-based simulator for designing and analyzing computer network topologies. Ideal for students, educators, and professionals to visualize, simulate, and test network configurations in real time.
